@@ -1,7 +1,5 @@
 ### Hi there, I'm Gerardo 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on completing Lambda School
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking for a company where I can solve complex problems
