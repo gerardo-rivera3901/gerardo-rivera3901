@@ -1,4 +1,5 @@
-### Hi there, I'm Gerardo 👋
+### Hello! 👋
+Hey there, I'm Gerardo and I'm a Full Stack Web developer!
 
 - 🔭 I’m currently working on completing Lambda School
 - 🌱 I’m currently learning TensorFlow
